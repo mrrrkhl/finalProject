@@ -46,6 +46,7 @@ _Класс для построения диаграммы:_
 ![diagram_class](https://github.com/mrrrkhl/finalProject/blob/master/images/diagram.png)
 
 _Полученная диаграмма:_
+
 ![diagram](https://github.com/mrrrkhl/finalProject/blob/master/images/1taskResult.png) <br><br><br>
 
 _2. 'Выведите в консоль средний размер перевода в долларах, а так же их количество, за каждый уникальный период'_
